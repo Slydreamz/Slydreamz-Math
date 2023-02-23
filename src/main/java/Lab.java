@@ -10,7 +10,7 @@ public class Lab {
      * The Math class contains static methods, which means that it does not need to be instantiated for a developer
      * to use the contained methods. They are global to the entire program. This is very important to understand,
      * as new coders often misuse the static keyword. So, static methods and variables of Math are associated with the
-     * Math class rather than a Math object.
+     * Math class rather than a Math object
      *
      * This is also an exercise in reading the official Oracle documentation rather than relying on a tutorial for
      * beginners. In the future, when you will be navigating complex topics, you will need to rely on official
